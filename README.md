@@ -1,4 +1,4 @@
-# charon
+# Charon
  Reactive python notebook, inspired by Pluto.jl
 
  This project is very much in its early stages and doesn't do much of anything yet. It is inspired by the reactive notebook design of Pluto, hence this project's name as a moon of Pluto :)
